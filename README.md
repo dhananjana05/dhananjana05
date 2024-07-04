@@ -1,19 +1,51 @@
+<p align="center">
+  <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+</p>
 <h1 align="center">Hi 👋, I'm Dhananjana Jayarathna</h1>
 <h3 align="center">I am Undergraduate.</h3>
-
+ <p align="center">
+  <img src="https://img.shields.io/badge/Age-24-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhananjana05&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjana05" /> </p>
 
+<p align="center">
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently studying in **Rajarata University of Sri Lanaka**
 
-- 🌱 I’m currently learning **C,C++,Python, Java, JavaScript, git, PHP, CSS, HTML**
+- 🌱 I’m currently learning **Selenium Testing,Wordpress,C++**
 
-- 💬 Ask me about **C,C++,Python, Java, HTML, PHP**
+- 💬 Ask me about **C,Python, Java, HTML, PHP**
 
 - 📫 How to reach me **dhananjanajayarathna4@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny most of times**
+ </td>
+<td width="50%" align="center">
+<a target="_blank" align="center">
+  <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
+</td>
+</tr>
+</table>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhananjana05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhananjana05&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+<h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhananjana jayarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjana jayarathne" height="30" width="40" /></a>
 <a href="https://fb.com/dhananjana jayarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhananjana jayarathne" height="30" width="40" /></a>
