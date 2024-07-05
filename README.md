@@ -1,8 +1,12 @@
 <p align="center">
-  <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 </p>
 <h1 align="center">Hi 👋, I'm Dhananjana Jayarathna</h1>
-<h3 align="center">I am Undergraduate.</h3>
+
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Undergraduate">
+</p>
+
  <p align="center">
   <img src="https://img.shields.io/badge/Age-24-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
