@@ -22,7 +22,7 @@
   
 - 🔭 I’m currently studying in **Rajarata University of Sri Lanaka**
 
-- 🌱 I’m currently learning **Selenium Testing,Wordpress,C++**
+- 🌱 I’m currently learning **Automation(Selenium)Testing,Manual Testing,Wordpress,C++**
 
 - 💬 Ask me about **C,Python, Java, HTML, PHP**
 
