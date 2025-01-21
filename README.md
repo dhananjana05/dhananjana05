@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 </p>
-<h1 align="center">Hi 👋, I'm Dhananjana Jayarathna</h1>
+<h1 align="center">Hi 👋, I'm Dhananjana Jayarathna, Seeking QA Intern</h1>
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Undergraduate">
@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhananjana05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhananjan05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhananjana05&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
