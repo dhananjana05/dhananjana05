@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 </p>
-<h1 align="center">Hi 👋, I'm Dhananjana Jayarathna, Seeking QA Intern</h1>
+<h1 align="center">Hi 👋, I'm Dhananjana Jayarathna, Associate QA Engineer</h1>
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Undergraduate">
@@ -20,11 +20,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently studying in **Rajarata University of Sri Lanaka**
+- 🔭 I’m a Software Quality Assurance Engineer who enjoys turning bugs into better products.
 
-- 🌱 I’m currently learning **Automation(Selenium)Testing,Manual Testing,Wordpress,C++**
+- 🌱 I’ve completed my Bachelor of Information Communication Technology at Rajarata University of Sri Lanka 
 
-- 💬 Ask me about **C,Python, Java, HTML, PHP**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing**
 
 - 📫 How to reach me **dhananjanajayarathna4@gmail.com**
 
